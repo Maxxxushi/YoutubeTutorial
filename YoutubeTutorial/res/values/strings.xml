@@ -2,7 +2,9 @@
 <resources>
 
     <string name="app_name">YoutubeTutorial</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="bAddOne">Add one</string>
+    <string name="bSubOne">Sub one</string>
+    <string name="total">Your total is 0</string>
 
 </resources>
