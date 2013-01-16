@@ -17,16 +17,15 @@
             android:name="com.tutorial.youtubetutorial.Splash"
             android:label="@string/app_name" >
             <intent-filter>
-                <action android:name="android.intent.action.SPLASH" />
+                <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.tutorial.youtubetutorial.StartingPoint"
-            android:label="@string/app_name" 
-			android:exported="false">
+            android:label="@string/app_name" >
              <intent-filter>
-                <action android:name="com.tutorial.youtubetutorial.StartingPoint" />
+                <action android:name="android.intent.action." />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
